@@ -172,7 +172,7 @@ function App() {
         <button onClick={Switch}>Swap</button>
       </div>
     
-      <Switch/>
+      
       <MyComponent4/>
     </div>
   );
